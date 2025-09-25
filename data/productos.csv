@@ -1,0 +1,22 @@
+id_producto,nombre,categoría,precio
+1,  LAPTOP Gamer ,Tecnología , 2500$
+2,Celular X,Tecnología,  1200 $
+3,Audífonos ,   Tecnología,300
+4, silla ergonómica , Hogar ,   $450
+5,Mouse Inalámbrico ,Tecnología ,null
+6,Cámara digital, Tecnología,  800 $
+7,Escritorio ,Hogar,  600
+8,Televisor LED, Tecnología,"1 200$"
+9,Microondas , Hogar , $350
+10,Lámpara de mesa, hogar, 100
+11,Tablet ,TEcnología,  750 $
+12,Cargador,   Tecnología, 50
+13, Sofá 3 puestos , Hogar,"1,500$"
+14, Cafetera ,Hogar ,null
+15,Smartwatch,tecnología,$400
+16, parlante Bluetooth ,  Tecnología ,  220 $
+17, colchón ,Hogar,  900 $
+18, Impresora ,Tecnología ,$370
+19, Ventilador , Hogar, 120
+20, Teclado mecánico, TECNOLOGÍA ,  200 $
+

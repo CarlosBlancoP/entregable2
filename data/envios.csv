@@ -1,0 +1,21 @@
+id_envio,id_producto,estado,bodega
+1,1, ENTREGADO , BOGOTÁ
+2,2,en camino , MEDELLIN
+3,3, Pendiente , CALI
+4,4, entregado ,  null
+5,5, Cancelado, BOGOTÁ
+6,6,EN CAMINO , MEDELLÍN
+7,7,Pendiente,  CALI
+8,8,  entregado,BOGOTA
+9,9,en CAMINO,MEDELLÍN
+10,10, null , CALI
+11,11,PENDIENTE, BOGOTÁ
+12,12,Entregado , MEDELLIN
+13,13, Cancelado , null
+14,14, EN CAMINO, CALI
+15,15, pendiente , BOGOTA
+16,16,Entregado , MEDELLIN
+17,17, Cancelado , CALI
+18,18, EN CAMINO, null
+19,19,Pendiente,  BOGOTÁ
+20,20, entregado ,MEDELLÍN
