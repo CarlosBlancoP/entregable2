@@ -8,6 +8,18 @@ Este proyecto consiste en construir una aplicación de análisis de datos en Pyt
 - Responder preguntas clave de análisis.
 
 ## ⚙️ Requisitos
+
+
+## ⚙️ Configuración del entorno  
+1. Crear entorno virtual:  
+```bash
+python -m venv venv
+Activar entorno :
+
+venv\Scripts\activate
+
+
+
 Instalar dependencias:
 ```bash
 pip install pandas
